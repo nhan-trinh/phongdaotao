@@ -1,0 +1,1 @@
+2025-05-17 09:56:49 - {"input":{"class_id":1},"item_exists":true,"foreign_key_checks":"enabled","delete_attempt":{"query":"DELETE FROM classes WHERE id = :id","params":{"id":1}},"delete_result":{"success":true,"rows_affected":1}}
